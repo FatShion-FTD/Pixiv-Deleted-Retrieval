@@ -1,4 +1,4 @@
-# Pixiv De;eted Artwork Finder
+# Pixiv Deleted Artwork Finder
 
 Find the deleted(private) artworks on Pixiv.
 
