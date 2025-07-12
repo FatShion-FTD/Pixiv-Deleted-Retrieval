@@ -1,6 +1,6 @@
-# Pixiv Resource Finder
+# Pixiv De;eted Artwork Finder
 
-Find the deleted artworks on Pixiv.
+Find the deleted(private) artworks on Pixiv.
 
 ## Requirements
 
