@@ -12,7 +12,7 @@ Find the deleted artworks on Pixiv.
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/FatShion-FTD/Pixiv-Deleted-Retrieval
 cd PixivRetraval
 ```
 
